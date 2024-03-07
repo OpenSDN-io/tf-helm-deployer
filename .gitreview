@@ -1,5 +1,5 @@
 [gerrit]
-host=gerrit.tungsten.io
+host=gerrit.opensdn.io
 port=29418
-project=tungstenfabric/tf-helm-deployer.git
+project=opensdn-io/tf-helm-deployer.git
 defaultbranch=master

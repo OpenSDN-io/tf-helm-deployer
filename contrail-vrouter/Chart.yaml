@@ -3,9 +3,9 @@ name: contrail-vrouter
 description: Helm chart for Contrail vrouter
 version: 0.1.0
 appVersion: Contrail 5.0.0
-home: https://github.com/tungstenfabric/tf-helm-deployer/
+home: https://github.com/opensdn-io/tf-helm-deployer/
 sources:
-  - https://github.com/tungstenfabric/tf-controller/
+  - https://github.com/opensdn-io/tf-controller/
 tillerVersion: ">=2.4.0"
 keywords:
   - Contrail
